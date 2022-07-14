@@ -25,7 +25,7 @@ $ sudo raspi-config
 
 $ nano /home/pi/.bash_profile
 ```
-
+Then paste in the following:
 ```sh
 if [ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ]
 then
@@ -34,10 +34,11 @@ then
 fi
 ```
 
+Next edit another file:
 ```sh
 $ nano /home/pi/.xinitrc
 ```
-
+And paste in these contents:
 ```sh
 #!/usr/bin/env sh
 xset -dpms
