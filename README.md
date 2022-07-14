@@ -1,5 +1,7 @@
 # How to create a new Fridge device
 
+These instructions were written for a Raspberry Pi (Pi 3 or 4 recommended) with a touchscreen connected. You may have to deviate from the instructions to get it to work for another device.
+
 
 1. [OS Installation](./#os-installation)
 2. [Device Configuration](./#device-configuration)
