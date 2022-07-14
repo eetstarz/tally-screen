@@ -7,7 +7,7 @@
 ## OS Installation
 ### Simple way
 
-1. Flash the `pi-fridge.img` that is stored _somewhere_ to a MicroSD card.
+1. Flash the `pi-fridge.img` that is stored here(todo) to a MicroSD card.
 2. Insert the MicroSD.
 
 ### Advanced way
