@@ -94,7 +94,7 @@ After you've installed the OS you can start connecting the device to the interne
                 eap=PEAP
                 key_mgmt=WPA-EAP
                 phase2="auth=MSCHAPV2"
-                anonymous_identity="anonymous@utwente.nl"
+                anonymous_identity="anonymous@<domain>.nl" # check your school's instructions
                 identity="<eduroam login email>"
                 password="<eduroam login password>"
               }
