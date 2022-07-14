@@ -102,8 +102,8 @@ After you've installed the OS you can start connecting the device to the interne
               `CTRL + X, Y, Enter` to save.
             5. `sudo ifconfig wlan0 up`
             6. You can run `sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf` to test the connection. It should say "Authentication successful"
-        - Ethernet:
+        - Ethernet (only required if your network requires registering mac-addresses):
           1. `sudo ifconfig eth0`
           2. Note down the mac-address
-          3. Go to https://webapps.utwente.nl/srn/home and register the device
+          3. Register the mac-address with your network's portal
     5. `sudo reboot`
