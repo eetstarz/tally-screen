@@ -12,7 +12,7 @@
 
 ### Advanced way
 
-Chromium kiosk guide: https://blog.r0b.io/post/minimal-rpi-kiosk/  
+Instructions based on [this kiosk guide](https://blog.r0b.io/post/minimal-rpi-kiosk/).
 
 ```sh
 $ sudo apt-get update && sudo apt-get dist-upgrade -y
