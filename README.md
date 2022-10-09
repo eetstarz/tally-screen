@@ -48,7 +48,7 @@ xset s off
 xset s noblank
 
 unclutter &
-chromium-browser https://eestarz.nl/fridge/login \
+chromium-browser https://eetstarz.nl/login?type=house \
   --window-size=800,480 \
   --window-position=0,0 \
   --start-fullscreen \
