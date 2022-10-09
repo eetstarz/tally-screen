@@ -1,4 +1,4 @@
-# How to create a new Fridge device
+# Raspberry Pi Tally Screen guide
 
 These instructions were written for a Raspberry Pi (Pi 3 or 4 recommended) with a touchscreen connected. You may have to deviate from the instructions to get it to work for another device.
 
@@ -7,14 +7,10 @@ These instructions were written for a Raspberry Pi (Pi 3 or 4 recommended) with 
 2. [Device Configuration](./#device-configuration)
 
 ## OS Installation
-### Simple way
-
-1. Flash the `pi-fridge.img` that is stored here(todo) to a MicroSD card.
-2. Insert the MicroSD.
-
-### Advanced way
 
 Instructions based on [this kiosk guide](https://blog.r0b.io/post/minimal-rpi-kiosk/).
+
+Prepare your MicroSD card with a clean installation of the latest version of Raspberry Pi OS Lite (without desktop environment). Connect an ethernet cable and boot the device.
 
 ```sh
 $ sudo apt-get update && sudo apt-get dist-upgrade -y
