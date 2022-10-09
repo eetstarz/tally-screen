@@ -62,6 +62,8 @@ chromium-browser https://eetstarz.nl/login?type=house \
   --disable-hang-monitor
 ```
 
+### Some handy commands
+
 `Alt+F4` to exit kiosk mode, `startx -- -nocursor` to start chromium manually
 
 ## Device Configuration
