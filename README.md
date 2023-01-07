@@ -44,7 +44,7 @@ xset s off
 xset s noblank
 
 unclutter &
-chromium-browser https://eetstarz.nl/login?type=house \
+chromium-browser https://jeat.nl/login?type=house \
   --window-size=800,480 \
   --window-position=0,0 \
   --start-fullscreen \
